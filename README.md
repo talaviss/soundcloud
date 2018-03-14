@@ -2,7 +2,7 @@
 
 
 
-In an effort to learn es6 and [redux](https://github.com/reactjs/redux), this is SoundRedux, a simple [Soundcloud](http://soundcloud.com) client
+In an effort to master es6 and [redux](https://github.com/reactjs/redux), this is SoundRedux, a simple [Soundcloud](http://soundcloud.com) client
 
 See it in action at https://soundredux.io
 
@@ -13,3 +13,4 @@ Uses [normalizr](https://github.com/gaearon/normalizr)
 3. visit `http://localhost:8080`
 
 Feedback, issues, etc. are more than welcome!
+git remote add origin https://github.com/talaviss/soundcloud.gitk

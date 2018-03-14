@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewngu/sound-redux.git"
+    "url": "https://github.com/talaviss/sound-redux.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewngu/sound-redux/issues"
+    "url": "https://github.com/talaviss/sound-redux/issues"
   },
-  "homepage": "https://github.com/andrewngu/sound-redux",
+  "homepage": "https://github.com/talaviss/sound-redux",
   "devDependencies": {
     "autoprefixer": "^7.1.3",
     "babel-core": "^6.26.0",
